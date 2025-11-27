@@ -142,13 +142,13 @@ python SmartAttend.py
 
 ---> [Login Page](Application_UI/Login_page.png)
 
----> Register_page.png
+---> [Register Page](Application_UI/Register_page.png)
 
----> Forget_Password_page_1.png
+---> [Forget Password - Step 1](Application_UI/Forget_Password_page_1.png)
 
----> Forget_Password_page_2.png
+---> [Forget Password - Step 2](Application_UI/Forget_Password_page_2.png)
 
----> Forget_Password_page_3.png
+---> [Forget Password - Step 3](Application_UI/Forget_Password_page_3.png)
 
 2️⃣ 👑 Super Admin Module
 
@@ -156,7 +156,7 @@ python SmartAttend.py
 
 📄 Screenshots:
 
----> Admin_Management_page.png
+---> [Admin Management Page](Application_UI/Admin_Management_page.png)
 
 3️⃣ 🛡️ Admin Module
 
@@ -164,7 +164,7 @@ python SmartAttend.py
 
 📄 Screenshots:
 
----> Admin_page.png
+---> [Admin Page](Application_UI/Admin_page.png)
 
 
 4️⃣ 🎓 Student Management Module
@@ -173,9 +173,9 @@ python SmartAttend.py
 
 📄 Screenshots:
 
----> Student_Details_page_1.png
+---> [Student Details Page 1](Application_UI/Student_Details_page_1.png)
 
----> Student_Details_page_2.png
+---> [Student Details Page 2](Application_UI/Student_Details_page_2.png)
 
 5️⃣ 🕒 Attendance Module
 
@@ -185,13 +185,13 @@ A) 🎥 Take Attendance
 
 📄 Screenshots:
 
----> Take_Attendance_page_1.png
+---> [Take Attendance Page 1](Application_UI/Take_Attendance_page_1.png)
 
----> Take_Attendance_page_2.png
+---> [Take Attendance Page 2](Application_UI/Take_Attendance_page_2.png)
 
----> Take_Attendance_page_3.png
+---> [Take Attendance Page 3](Application_UI/Take_Attendance_page_3.png)
 
----> Take_Attendance_page_4.png
+---> [Take Attendance Page 4](Application_UI/Take_Attendance_page_4.png)
 
 B) 📊 Attendance Reports / Management
 
@@ -199,9 +199,9 @@ B) 📊 Attendance Reports / Management
 
 📄 Screenshots:
 
----> Attendance_Management_page_1.png
+---> [Attendance Management Page 1](Application_UI/Attendance_Management_page_1.png)
 
----> Attendance_Management_page_2.png
+---> [Attendance Management Page 2](Application_UI/Attendance_Management_page_2.png)
 
 6️⃣ 📸 Photo Samples Module
 
@@ -209,9 +209,9 @@ B) 📊 Attendance Reports / Management
 
 📄 Screenshots:
 
----> Photo_Samples_button_1.png
+---> [Photo Sample Button 1](Application_UI/Photo_Samples_button_1.png)
 
----> Photo_Samples_button_2.png
+---> [Photo Sample Button 2](Application_UI/Photo_Samples_button_2.png)
 
 7️⃣ 🧠 Model Training Module
 
@@ -219,7 +219,7 @@ B) 📊 Attendance Reports / Management
 
 📄 Screenshot:
 
----> Train_Data_page.png
+---> [Train Data Page](Application_UI/Train_Data_page.png)
 
 
 
