@@ -133,6 +133,7 @@ python SmartAttend.py
 ---
 
 📂 SmartAttend – UI Screens (Section-wise Grouping)
+
 1️⃣ 🔐 Authentication Module
 
 Login, registration, and password recovery interfaces.
@@ -178,6 +179,7 @@ Student_Details_page_1.png
 Student_Details_page_2.png
 
 5️⃣ 🕒 Attendance Module
+
 A) 🎥 Take Attendance
 
 Real-time face recognition attendance capture.
