@@ -133,7 +133,11 @@ python SmartAttend.py
 ---
 
 📂 SmartAttend – UI Screens (Section-wise Grouping)
-1️⃣ Authentication Module
+1️⃣ 🔐 Authentication Module
+
+Login, registration, and password recovery interfaces.
+
+📄 Screenshots:
 
 Login_page.png
 
@@ -145,20 +149,40 @@ Forget_Password_page_2.png
 
 Forget_Password_page_3.png
 
-2️⃣ Admin Module
+2️⃣ 👑 Super Admin Module
 
-Admin_page.png
+Manage global system settings and admin approvals.
+
+📄 Screenshots:
 
 Admin_Management_page.png
 
-3️⃣ Student Management Module
+3️⃣ 🛡️ Admin Module
+
+Handles student data, training, attendance operations.
+
+📄 Screenshots:
+
+Admin_page.png
+
+(If both are same, you can remove one.)
+
+4️⃣ 🎓 Student Management Module
+
+Add, update, delete and manage student profiles.
+
+📄 Screenshots:
 
 Student_Details_page_1.png
 
 Student_Details_page_2.png
 
-4️⃣ Attendance Module
-➡ Take Attendance
+5️⃣ 🕒 Attendance Module
+A) 🎥 Take Attendance
+
+Real-time face recognition attendance capture.
+
+📄 Screenshots:
 
 Take_Attendance_page_1.png
 
@@ -168,22 +192,34 @@ Take_Attendance_page_3.png
 
 Take_Attendance_page_4.png
 
-➡ Attendance Records / Management
+B) 📊 Attendance Reports / Management
+
+View, filter, and manage attendance logs.
+
+📄 Screenshots:
 
 Attendance_Management_page_1.png
 
 Attendance_Management_page_2.png
 
-5️⃣ Face Recognition Module
-➡ Capture Photo Samples
+6️⃣ 📸 Photo Samples Module
+
+Captures multiple face images to build the training dataset.
+
+📄 Screenshots:
 
 Photo_Samples_button_1.png
 
 Photo_Samples_button_2.png
 
-➡ Train Model
+7️⃣ 🧠 Model Training Module
+
+Trains LBPH classifier using collected face samples and generates classifier.xml.
+
+📄 Screenshot:
 
 Train_Data_page.png
+
 
 # 👨‍💻 Developer
 
