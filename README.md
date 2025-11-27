@@ -140,7 +140,7 @@ python SmartAttend.py
 
 📄 Screenshots:
 
----> Login_page.png
+---> Application_UI/Login_page.png
 
 ---> Register_page.png
 
