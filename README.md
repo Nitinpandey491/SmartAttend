@@ -133,90 +133,94 @@ python SmartAttend.py
 ---
 
 📂 SmartAttend – UI Screens (Section-wise Grouping)
+
 1️⃣ 🔐 Authentication Module
 
-Login, registration, and password recovery interfaces.
+---> Login, registration, and password recovery interfaces.
 
 📄 Screenshots:
 
-Login Page
+---> [Login Page](Application_UI/Login_page.png)
 
-Register Page
+---> Register_page.png
 
-Forgot Password – Step 1
+---> Forget_Password_page_1.png
 
-Forgot Password – Step 2
+---> Forget_Password_page_2.png
 
-Forgot Password – Step 3
+---> Forget_Password_page_3.png
 
 2️⃣ 👑 Super Admin Module
 
-Manage admin accounts and permissions.
+---> Manage admin.
 
 📄 Screenshots:
 
-Admin Management
+---> Admin_Management_page.png
 
 3️⃣ 🛡️ Admin Module
 
-Handles student management, training, and attendance.
+---> Handles student data, training, attendance operations.
 
 📄 Screenshots:
 
-Admin Dashboard
+---> Admin_page.png
+
 
 4️⃣ 🎓 Student Management Module
 
-Add, update, delete and manage student profiles.
+---> Add, update, delete and manage student profiles.
 
 📄 Screenshots:
 
-Student Details – Page 1
+---> Student_Details_page_1.png
 
-Student Details – Page 2
+---> Student_Details_page_2.png
 
 5️⃣ 🕒 Attendance Module
+
 A) 🎥 Take Attendance
 
-Real-time face recognition attendance capture.
+---> Real-time face recognition attendance capture.
 
 📄 Screenshots:
 
-Take Attendance – Page 1
+---> Take_Attendance_page_1.png
 
-Take Attendance – Page 2
+---> Take_Attendance_page_2.png
 
-Take Attendance – Page 3
+---> Take_Attendance_page_3.png
 
-Take Attendance – Page 4
+---> Take_Attendance_page_4.png
 
 B) 📊 Attendance Reports / Management
 
-View, filter, and manage attendance logs.
+---> View, filter, and manage attendance logs.
 
 📄 Screenshots:
 
-Attendance Management – Page 1
+---> Attendance_Management_page_1.png
 
-Attendance Management – Page 2
+---> Attendance_Management_page_2.png
 
 6️⃣ 📸 Photo Samples Module
 
-Store captured face samples for each student.
+---> Keep Students Photo Samples.
 
 📄 Screenshots:
 
-Photo Sample Button – 1
+---> Photo_Samples_button_1.png
 
-Photo Sample Button – 2
+---> Photo_Samples_button_2.png
 
 7️⃣ 🧠 Model Training Module
 
-Train LBPH classifier using collected face samples and generate classifier.xml.
+---> Trains LBPH classifier using collected face samples and generates classifier.xml.
 
 📄 Screenshot:
 
-Train Data Page
+---> Train_Data_page.png
+
 
 
 # 👨‍💻 Developer
