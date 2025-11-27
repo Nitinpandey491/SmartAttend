@@ -132,6 +132,59 @@ python SmartAttend.py
 
 ---
 
+📂 SmartAttend – UI Screens (Section-wise Grouping)
+1️⃣ Authentication Module
+
+Login_page.png
+
+Register_page.png
+
+Forget_Password_page_1.png
+
+Forget_Password_page_2.png
+
+Forget_Password_page_3.png
+
+2️⃣ Admin Module
+
+Admin_page.png
+
+Admin_Management_page.png
+
+3️⃣ Student Management Module
+
+Student_Details_page_1.png
+
+Student_Details_page_2.png
+
+4️⃣ Attendance Module
+➡ Take Attendance
+
+Take_Attendance_page_1.png
+
+Take_Attendance_page_2.png
+
+Take_Attendance_page_3.png
+
+Take_Attendance_page_4.png
+
+➡ Attendance Records / Management
+
+Attendance_Management_page_1.png
+
+Attendance_Management_page_2.png
+
+5️⃣ Face Recognition Module
+➡ Capture Photo Samples
+
+Photo_Samples_button_1.png
+
+Photo_Samples_button_2.png
+
+➡ Train Model
+
+Train_Data_page.png
+
 # 👨‍💻 Developer
 
 Nitin Vinay Pandey
